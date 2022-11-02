@@ -1,0 +1,96 @@
+,Country(Portuguese),Country(english),HDI,Gold,Silver,Bronze,Total,HDI index
+1,Estados Unidos,United States,D,39,41,33,113,0.921
+2,China,China,N,38,32,18,88,0.768
+5,ROC,ROC,D,20,28,23,71,0.822
+4,Grã-Bretanha,Great Britain,D,22,21,22,65,0.929
+3,Japão,Japan,D,27,14,17,58,0.925
+6,Austrália,Australia,D,17,7,22,46,0.951
+10,Itália,Italy,D,10,10,20,40,0.895
+9,Alemanha,Germany,D,10,11,16,37,0.942
+7,Países Baixos,Netherlands,D,10,12,14,36,0.941
+8,França,France,D,10,12,11,33,0.903
+11,Canadá,Canada,D,7,6,11,24,0.936
+12,Brasil,Brazil,N,7,6,8,21,0.754
+13,Nova Zelândia,New Zealand,D,7,6,7,20,0.937
+16,Coreia do Sul,South Korea,D,6,4,10,20,0.925
+15,Hungria,Hungary,D,6,7,7,20,0.846
+44,Ucrânia,Ukraine,N,1,6,12,19,0.773
+22,Espanha,Spain,D,3,8,6,17,0.905
+14,Cuba,Cuba,N,7,3,5,15,0.764
+17,Polônia,Poland,D,4,5,5,14,0.876
+24,Suíça,Switzerland,D,3,4,6,13,0.962
+35,Turquia,Turkey,D,2,2,9,13,0.838
+34,Taipé Chinês,Chinese taipei,D,2,4,6,12,0.916
+25,Dinamarca,Denmark,D,3,4,4,11,0.948
+18,República Checa,Czech Republic,D,4,4,3,11,0.889
+19,Quênia,Kenya,N,4,4,2,10,0.575
+23,Suécia,Sweden,D,3,6,0,9,0.947
+28,Sérvia,Serbia,D,3,1,5,9,0.802
+21,Jamaica,Jamaica,N,4,1,4,9,0.709
+20,Noruega,Norway,D,4,2,2,8,0.961
+26,Croácia,Croatia,D,3,3,2,8,0.858
+83,Cazaquistão,Kazakhstan,D,0,0,8,8,0.811
+33,Geórgia,Georgia,D,2,5,1,8,0.802
+29,Bélgica,Belgium,D,3,1,3,7,0.937
+53,Áustria,Austria,D,1,1,5,7,0.916
+45,Bielorrússia,Belarus,D,1,3,3,7,0.808
+27,Irã,Iran,N,3,2,2,7,0.774
+67,Azerbaijão,Azerbaijan,N,0,3,4,7,0.745
+48,Índia,India,N,1,2,4,7,0.633
+49,Hong Kong,Hong Kong,D,1,2,3,6,0.952
+30,Bulgária,Bulgaria,N,3,1,2,6,0.795
+54,Egito,Egypt,N,1,1,4,6,0.731
+31,Eslovênia,Slovenia,D,3,1,1,5,0.918
+68,República Dominicana,Dominican Republic,N,0,3,2,5,0.767
+66,Colômbia,Colombia,N,0,4,1,5,0.752
+32,Uzbequistão,Uzbekistan,N,3,0,2,5,0.727
+55,Indonésia,Indonesia,N,1,1,3,5,0.705
+39,Irlanda,Ireland,D,2,0,2,4,0.945
+40,Israel,Israel,D,2,0,2,4,0.919
+36,Grécia,Greece,D,2,1,1,4,0.887
+57,Portugal,Portugal,D,1,1,2,4,0.866
+51,Eslováquia,Slovakia,D,1,2,1,4,0.848
+46,Romênia,Romania,D,1,3,0,4,0.821
+69,Armênia,Armenia,N,0,2,2,4,0.759
+84,México,Mexico,N,0,0,4,4,0.758
+71,Mongólia,Mongolia,N,0,1,3,4,0.739
+50,Filipinas,Philippines,N,1,2,1,4,0.699
+47,Venezuela,Venezuela,N,1,3,0,4,0.691
+37,Uganda,Uganda,N,2,1,1,4,0.525
+56,Etiópia,Ethiopia,N,1,1,2,4,0.498
+41,Catar,Qatar,D,2,0,1,3,0.855
+73,San Marino,San Marino,D,0,1,2,3,0.853
+72,Argentina,Argentina,D,0,1,2,3,0.842
+38,Equador,Ecuador,N,2,1,0,3,0.74
+52,África do Sul,South Africa,N,1,2,0,3,0.713
+70,Quirguistão,Kyrgyzstan,N,0,2,1,3,0.692
+85,Finlândia,Finland,D,0,0,2,2,0.94
+59,Estônia,Estonia,D,1,0,1,2,0.89
+61,Letônia,Latvia,D,1,0,1,2,0.863
+42,Bahamas,Bahamas,D,2,0,0,2,0.812
+75,Malásia,Malaysia,D,0,1,1,2,0.803
+62,Tailândia,Thailand,N,1,0,1,2,0.8
+43,Kosovo,Kosovo,N,2,0,0,2,0.75
+58,Tunísia,Tunisia,N,1,1,0,2,0.731
+60,Fiji,Fiji,N,1,0,1,2,0.73
+74,Jordânia,Jordan,N,0,1,1,2,0.72
+76,Nigéria,Nigeria,N,0,1,1,2,0.535
+63,Bermudas,Bermuda,D,1,0,0,1,0.981
+77,Bahrein,Bahrain,D,0,1,0,1,0.875
+78,Arábia Saudita,Saudi Arabia,D,0,1,0,1,0.875
+79,Lituânia,Lithuania,D,0,1,0,1,0.875
+65,Porto Rico,Puerto Rico,D,1,0,0,1,0.845
+91,Kuwait,Kuwait,D,0,0,1,1,0.831
+90,Granada,Grenada,N,0,0,1,1,0.795
+92,Moldávia,Moldavia,N,0,0,1,1,0.774
+80,Macedônia do Norte,North Macedonia,N,0,1,0,1,0.77
+82,Turcomenistão,Turkmenistan,N,0,1,0,1,0.745
+86,Botsuana,Botswana,N,0,0,1,1,0.693
+64,Marrocos,Morocco,N,1,0,0,1,0.683
+89,Gana,Ghana,N,0,0,1,1,0.632
+81,Namíbia,Namibia,N,0,1,0,1,0.615
+93,Síria,Syria,N,0,0,1,1,0.577
+88,Costa do Marfim,Costa do Marfim,N,0,0,1,1,0.55
+87,Burquina Fasso,Burkina Faso,N,0,0,1,1,0.449
+,,,,,,,,
+,,, ,,,,,
